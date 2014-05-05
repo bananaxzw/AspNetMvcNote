@@ -1,0 +1,32 @@
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\Moq.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.xml
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll.config
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.UnitTests.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.Domain.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\SportsStore.WebUI.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\Ninject.xml
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\obj\Debug\ResolveAssemblyReference.cache
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb

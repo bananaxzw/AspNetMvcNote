@@ -1,0 +1,57 @@
+﻿@using MvcApp.Models
+@model Appointment
+<script type="text/javascript">
+
+    $(document).ready(function () {
+        $('form').submit(function (e) {
+            e.preventDefault();
+
+            var s = new Array();
+            for (var i = 0; i < 3; i++) {
+                var appointment = {
+                    ClientName: $('#ClientName').val(),
+                    Date: $('#Date').val(),
+                    TermsAccepted: $('#TermsAccepted').is(':checked')
+                };
+                s.push(appointment);
+            }
+
+
+
+            $.ajax({
+                url: '@Url.Action("Index")',
+                type: 'POST',
+                data: JSON.stringify(s),
+                dataType: 'json',
+                processData: false,
+                contentType: 'application/json; charset=utf-8',
+                success: function (data) {
+                    $('#clienttarget').text(data.ClientName);
+                    $('#datetarget').text(data.Date);
+                    $('#termstarget').text(data.TermsAccepted);
+                    $('#results').show();
+                }
+            });
+        });
+    });
+</script>
+<h4>
+    Create Appointment</h4>
+@using (Html.BeginForm())
+{
+
+    @Html.EditorForModel()
+    <input type="submit" value="Submit" />
+}
+<div id="results" style="display: none">
+    Here is the appointment you created:
+    <p>
+        ClientName: <span id="clienttarget" />
+    </p>
+    <p>
+        Date: <span id="datetarget" />
+    </p>
+    <p>
+        Terms Accepted: <span id="termstarget" />
+    </p>
+</div>

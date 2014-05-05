@@ -1,0 +1,22 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UrlsSample</title>
+</head>
+<body>
+    <div>
+        @Url.Content("~/Content/Site.css")
+        <br />
+        @Url.Action("UrlsSample", "Home", new { param = "sfsf", controller = "UrlsSample" }, "https")
+        <br />
+        @Url.RouteUrl("Default", new { controller = "Home", action = "UrlsSample", param = "sfsf" });
+        <br />
+        @Html.ActionLink("Hi", "UrlsSample", "Home")
+        <br />
+        @Html.RouteLink("routelinkTest", new { controller = "Home", action = "UrlsSample", param = "sfsf" });
+    </div>
+</body>
+</html>

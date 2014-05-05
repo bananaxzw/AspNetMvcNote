@@ -1,0 +1,28 @@
+F:\MVC练习\9781430234043\9781430234043 - Part II\17 - Model Binding\MvcApp\MvcApp\bin\MvcApp.dll
+F:\MVC练习\9781430234043\9781430234043 - Part II\17 - Model Binding\MvcApp\MvcApp\bin\MvcApp.pdb
+F:\MVC练习\9781430234043\9781430234043 - Part II\17 - Model Binding\MvcApp\MvcApp\bin\Ninject.dll
+F:\MVC练习\9781430234043\9781430234043 - Part II\17 - Model Binding\MvcApp\MvcApp\obj\Debug\ResolveAssemblyReference.cache
+F:\MVC练习\9781430234043\9781430234043 - Part II\17 - Model Binding\MvcApp\MvcApp\obj\Debug\MvcApp.dll
+F:\MVC练习\9781430234043\9781430234043 - Part II\17 - Model Binding\MvcApp\MvcApp\obj\Debug\MvcApp.pdb
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\obj\Debug\ResolveAssemblyReference.cache
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\obj\Debug\MvcApp.pdb
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\MvcApp.dll
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\MvcApp.pdb
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\Ninject.dll
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\System.Web.Mvc.dll
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\System.Web.Razor.dll
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\System.Web.WebPages.Razor.dll
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\System.Web.Mvc.pdb
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\System.Web.Razor.pdb
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\bin\System.Web.WebPages.Razor.pdb
+D:\mycodecollectbananaxzw\mvc\ModelBinding\MvcApp\obj\Debug\MvcApp.dll
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\bin\MvcApp.dll
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\bin\MvcApp.pdb
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\bin\Ninject.dll
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\bin\System.Web.Mvc.dll
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\bin\System.Web.WebPages.Razor.dll
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\bin\System.Web.Mvc.pdb
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\bin\System.Web.WebPages.Razor.pdb
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\obj\Debug\ResolveAssemblyReference.cache
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\obj\Debug\MvcApp.dll
+E:\个人源码积累\WebApplication1\mvc\ModelBinding\MvcApp\obj\Debug\MvcApp.pdb

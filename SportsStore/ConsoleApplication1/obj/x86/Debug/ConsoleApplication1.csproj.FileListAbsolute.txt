@@ -1,0 +1,22 @@
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\ConsoleApplication1\bin\Debug\Ninject.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\ConsoleApplication1\bin\Debug\Ninject.xml
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+E:\个人源码积累\WebApplication1\mvc\SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\个人源码积累\WebApplication1\mvc\SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\个人源码积累\WebApplication1\mvc\SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\个人源码积累\WebApplication1\mvc\SportsStore\ConsoleApplication1\bin\Debug\Ninject.xml
+E:\个人源码积累\WebApplication1\mvc\SportsStore\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\个人源码积累\WebApplication1\mvc\SportsStore\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+E:\个人源码积累\WebApplication1\mvc\SportsStore\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\mycodecollectbananaxzw\mvc\SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\mycodecollectbananaxzw\mvc\SportsStore\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\ConsoleApplication1\bin\Debug\Ninject.xml
+D:\mycodecollectbananaxzw\mvc\SportsStore\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\mycodecollectbananaxzw\mvc\SportsStore\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\mycodecollectbananaxzw\mvc\SportsStore\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

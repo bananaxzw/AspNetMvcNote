@@ -1,0 +1,8 @@
+﻿@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@Html.Partial("Passvalue", new ViewDataDictionary { {"id","tt" },{"mm","ff"}})
+@Html.Partial("PassModel", new MvcApplication1.Models.Region { RegionID = 1, RegionName = "ff" })
+@Html.Partial("11/PassModel", new MvcApplication1.Models.Region { RegionID = 1, RegionName = "ff" })

@@ -1,0 +1,14 @@
+﻿@model string
+
+@foreach (string value in MVCApp.Infrastructure.Class1.getss())
+{
+
+   
+    if (value == Model)
+    { 
+    <b>@value</b>
+    }
+    else { 
+     @value
+    }
+}

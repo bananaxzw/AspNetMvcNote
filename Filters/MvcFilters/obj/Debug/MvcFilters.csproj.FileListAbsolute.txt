@@ -1,0 +1,19 @@
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\13 - Filters\1. MVC Filters\MvcFilters\obj\Debug\ResolveAssemblyReference.cache
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\13 - Filters\1. MVC Filters\MvcFilters\bin\MvcFilters.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\13 - Filters\1. MVC Filters\MvcFilters\bin\MvcFilters.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\13 - Filters\1. MVC Filters\MvcFilters\bin\Ninject.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\13 - Filters\1. MVC Filters\MvcFilters\bin\Ninject.xml
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\13 - Filters\1. MVC Filters\MvcFilters\obj\Debug\MvcFilters.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\13 - Filters\1. MVC Filters\MvcFilters\obj\Debug\MvcFilters.pdb
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\obj\Debug\ResolveAssemblyReference.cache
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\obj\Debug\MvcFilters.pdb
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\MvcFilters.dll
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\MvcFilters.pdb
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\Ninject.dll
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\obj\Debug\MvcFilters.dll
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\System.Web.Mvc.dll
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\System.Web.Razor.dll
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\System.Web.WebPages.Razor.dll
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\System.Web.Mvc.pdb
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\System.Web.Razor.pdb
+D:\mycodecollectbananaxzw\mvc\Filters\MvcFilters\bin\System.Web.WebPages.Razor.pdb

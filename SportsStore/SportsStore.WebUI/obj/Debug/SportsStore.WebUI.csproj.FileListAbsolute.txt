@@ -1,0 +1,36 @@
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\Ninject.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\Ninject.xml
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part I\07 - 09 SportsStore\07 - 09 SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+F:\SelfCode\SelfCode\mvc\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\Ninject.pdb
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\obj\Debug\ResolveAssemblyReference.cache
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+D:\mycodecollectbananaxzw\mvc\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb

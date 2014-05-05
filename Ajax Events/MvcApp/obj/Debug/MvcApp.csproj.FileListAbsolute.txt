@@ -1,0 +1,16 @@
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\4. Working with Ajax Events\MvcApp\bin\MvcApp.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\4. Working with Ajax Events\MvcApp\bin\MvcApp.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\4. Working with Ajax Events\MvcApp\obj\Debug\ResolveAssemblyReference.cache
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\4. Working with Ajax Events\MvcApp\obj\Debug\MvcApp.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\4. Working with Ajax Events\MvcApp\obj\Debug\MvcApp.pdb
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\bin\MvcApp.dll
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\bin\MvcApp.pdb
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\bin\System.Web.Mvc.dll
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\bin\System.Web.Razor.dll
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\bin\System.Web.WebPages.Razor.dll
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\bin\System.Web.Mvc.pdb
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\bin\System.Web.Razor.pdb
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\bin\System.Web.WebPages.Razor.pdb
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\obj\Debug\ResolveAssemblyReference.cache
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\obj\Debug\MvcApp.dll
+D:\mycodecollectbananaxzw\mvc\Ajax Events\MvcApp\obj\Debug\MvcApp.pdb

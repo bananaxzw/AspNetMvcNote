@@ -1,0 +1,10 @@
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\7. Receiving Ajax Data\MvcApp\bin\MvcApp.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\7. Receiving Ajax Data\MvcApp\bin\MvcApp.pdb
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\7. Receiving Ajax Data\MvcApp\obj\Debug\ResolveAssemblyReference.cache
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\7. Receiving Ajax Data\MvcApp\obj\Debug\MvcApp.dll
+D:\书籍\MVC\9781430234043\9781430234043 - Part II\19 - Unobtrusive Ajax\19 - Unobtrusive Ajax\7. Receiving Ajax Data\MvcApp\obj\Debug\MvcApp.pdb
+D:\mycodecollectbananaxzw\mvc\Ajax Data\MvcApp\bin\MvcApp.dll
+D:\mycodecollectbananaxzw\mvc\Ajax Data\MvcApp\bin\MvcApp.pdb
+D:\mycodecollectbananaxzw\mvc\Ajax Data\MvcApp\obj\Debug\ResolveAssemblyReference.cache
+D:\mycodecollectbananaxzw\mvc\Ajax Data\MvcApp\obj\Debug\MvcApp.dll
+D:\mycodecollectbananaxzw\mvc\Ajax Data\MvcApp\obj\Debug\MvcApp.pdb

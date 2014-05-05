@@ -1,0 +1,36 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+<h2>@ViewBag.Message</h2>
+<p>
+    @{
+        <h2>@ViewBag.Message</h2>
+    }
+    @for (int i = 0; i < 2; i++)
+    {
+        <h2>@ViewBag.Message</h2>
+    }
+    @{
+        for (int i = 0; i < 2; i++)
+        {
+        <h2>@ViewBag.Message</h2>
+        }
+    }
+    To learn more about ASP.NET MVC visit <a href="http://asp.net/mvc" title="ASP.NET MVC Website">
+        http://asp.net/mvc</a>.
+</p>
+
+ @using (Html.BeginForm())
+       {
+    <div>
+        Name:
+        @Html.TextBox("myperson.FirstName")</div>
+    <div>
+        Email address:
+        @Html.TextBox("myperson.Email")</div>
+    <div>
+        Date of birth:
+        @Html.TextBox("myperson.BirthDate")</div>
+    <input type="submit" value="提交" />
+   }
+

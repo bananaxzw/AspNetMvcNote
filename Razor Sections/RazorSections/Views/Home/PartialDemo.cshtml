@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "Partial Views";
+    Layout = null;
+}
+
+
+<p>This is the method rendered by the action method</p>
+
+@Html.Partial("MyStronglyTypedPartial", new [] {"Apples", "Mangoes", "Oranges"})
+
+<p>This is the method rendered by the action method again</p>

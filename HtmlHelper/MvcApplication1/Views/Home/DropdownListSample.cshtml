@@ -1,0 +1,17 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <title>DropdownListSample</title>
+</head>
+<body>
+    <div>
+        @Html.DropDownList("region");
+        @Html.DropDownList("region", ViewData["region"] as IEnumerable<SelectListItem>);
+        @Html.DropDownList("region", ViewBag.ss as SelectList)
+        @Html.DropDownList("myList", new SelectList(new SelectListItem[] { new SelectListItem { Text = "1", Value = "1", Selected = true } }, "Text", "value", "1"), "Choose")
+    </div>
+</body>
+</html>
